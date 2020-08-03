@@ -1,7 +1,5 @@
 package com.geekbrains;
-
 import java.util.logging.Logger;
-
 
 public class Task1 {
     private static final Logger logger = Logger.getLogger(Task1.class.getName());
